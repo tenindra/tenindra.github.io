@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -15,11 +15,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Welcome to my home on the internet! I completed my PhD on <a href="https://monash.figshare.com/articles/In_Search_of_Points_of_Interest_A_Story_of_Decoupled_Heuristics_on_Road_Networks/8970947/1"> POI search algortithms for road network graphs</a> at Monash University under <a href="http://www.aamircheema.com">Prof. Aamir Cheema</a>. I was a postdoctoral fellow with the Grab-NUS AI Laboratory at the National University of Singapore and a Endeavour Australia Cheung Kong Research Fellow. I received my bachelors degrees (B.Eng and B.Sc) from the University of New South Wales.
