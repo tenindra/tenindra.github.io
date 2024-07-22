@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tenindra.github.io# the base hostname & protocol for your site/sitemap.xml
+Sitemap: https://tenindra.github.io/sitemap.xml
