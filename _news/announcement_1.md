@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The new site is online, albeit work-in-progress! :sparkles: :smile:
+The new site is online, albeit work-in-progress! :smile:
