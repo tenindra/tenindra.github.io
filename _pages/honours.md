@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /honours/
-title: Honours & Awards
-description: Honours & Awards
+title: honours & awards
+description: honours & awards
 nav: true
 nav_order: 2
 ---
