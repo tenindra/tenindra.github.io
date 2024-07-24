@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to my page! I'm interested in finding easy-to-grasp intuitions and turning them into well-developed, robust, and scalable algorithms that work well in practice. My areas of interest are broadly data management, graph algorithms, and data science with applications in location and map-based services. 
+Welcome to my new page! I'm a researcher passionate about finding easy-to-grasp intuitions into real-world computing problems and turning them into sophisticated, well-developed, and scalable algorithms. My areas of interest are data management, graph algorithms, and data science with applications in location and map-based services. 
 
-Bio: I completed my PhD on POI search algorithms for road network graphs at Monash University under <a href="http://www.aamircheema.com">Prof. Aamir Cheema</a>. I have previously been a Lead Data Scientist at Grab, a postdoctoral fellow with the Grab-NUS AI Laboratory at the National University of Singapore, and an Endeavour Australia Cheung Kong Research Fellow in Hong Kong. I received my bachelor's degrees (B.Eng and B.Sc) from the University of New South Wales.
+<b>Bio:</b> I completed my PhD in Computer Science at Monash University under <a href="http://www.aamircheema.com">Prof. Aamir Cheema</a>. I have previously been a Data Scientist at Grab, a Postdoctoral Fellow in the Grab-NUS AI Laboratory at the National University of Singapore, and an Endeavour Australia Cheung Kong Research Fellow at CUHK. I received my bachelor's degrees (B.Eng and B.Sc) from the University of New South Wales in Sydney.
