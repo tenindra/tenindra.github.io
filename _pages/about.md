@@ -16,4 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I completed my PhD on <a href="https://monash.figshare.com/articles/In_Search_of_Points_of_Interest_A_Story_of_Decoupled_Heuristics_on_Road_Networks/8970947/1"> POI search algortithms for road network graphs</a> at Monash University under <a href="http://www.aamircheema.com">Prof. Aamir Cheema</a>. I was a postdoctoral fellow with the Grab-NUS AI Laboratory at the National University of Singapore and a Endeavour Australia Cheung Kong Research Fellow. I received my bachelors degrees (B.Eng and B.Sc) from the University of New South Wales.
+Hello and welcome to my page! I'm interested in finding easy-to-grasp intuitions and turning them into well-developed, robust, and scalable algorithms that work well in practice. My areas of interest are broadly data management, graph algorithms, and data science with applications in location and map-based services. 
+
+Bio: I completed my PhD on POI search algorithms for road network graphs at Monash University under <a href="http://www.aamircheema.com">Prof. Aamir Cheema</a>. I have previously been a Lead Data Scientist at Grab, a postdoctoral fellow with the Grab-NUS AI Laboratory at the National University of Singapore, and an Endeavour Australia Cheung Kong Research Fellow in Hong Kong. I received my bachelor's degrees (B.Eng and B.Sc) from the University of New South Wales.
