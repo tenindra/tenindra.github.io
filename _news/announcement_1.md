@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The new site is online, albeit still work-in-progress! Come back soon for exiciting news!
+The new site is online, more updates to follow!
