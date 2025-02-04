@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have moved to Tokyo to join the RIKEN Centre for Computational Science as a Research Scientist!
+I have moved to Tokyo, Japan to join the RIKEN as a Research Scientist!
