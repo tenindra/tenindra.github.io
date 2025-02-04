@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist at the RIKEN Centre for Computational Science in Tokyo! My work focuses on bridging the gap between research on fundamental computational problems and their practical applications. My primary interest lies in developing efficient, scalable, and theoretically sound algorithms, with a particular emphasis on big data management and analytics, graphs, combinatorial optimization, and learning problems.
+I am a Research Scientist at the RIKEN Center for Computational Science in Tokyo! My work focuses on bridging the gap between research on fundamental computational problems and their practical applications. My primary interest lies in developing efficient, scalable, and theoretically sound algorithms, with a particular emphasis on big data management and analytics, graphs, combinatorial optimization, and learning problems.
 
 Background: I completed my PhD at Monash University under <a href="http://www.aamircheema.com">Prof. Aamir Cheema</a>. I have previously been a Data Scientist at Grab Inc., a Postdoctoral Fellow at the Institute of Data Science at the National University of Singapore, and an Endeavour Australia Cheung Kong Research Fellow at the Chinese University of Hong Kong. I received my B.Eng and B.Sc from the University of New South Wales in Sydney.
