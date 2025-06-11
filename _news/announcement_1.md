@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have moved to Tokyo, Japan to join RIKEN as a Research Scientist!
+After a stint in industry, I'm rejoining academia as a Research Scientist at the RIKEN Center for Computational Science in Japan! Looking forward to life in Tokyo :)
