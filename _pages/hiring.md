@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-RIKEN and some external funding organisations offers a number of short and long-term programs for overseas and Japan-based postdocs and PhD students to come work with us in Japan. If my interests resonate with you, feel free to reach out with your CV to see if we can support an application.
+RIKEN offers a number of short and long-term programs for overseas and Japan-based postdocs and PhD students to come work with us in Japan. If my interests resonate with you, feel free to reach out with your CV to see if we can support an application.
 
 {:class="table table-bordered"}
 | Program | Status | Deadline |
