@@ -14,6 +14,6 @@ RIKEN offers a number of short and long-term programs for overseas and Japan-bas
 | ------- | ----------- | -------- | -------- |
 | [RIKEN SPDR Program](https://www.riken.jp/en/careers/programs/spdr/) | Postdocs | 3 years | ~Mid-April |
 | [R-CCS International HPC Internship](https://www.r-ccs.riken.jp/en/outreach/schools/20250415-20260319/) | PhD Students (International) | 90 days | Dec / Feb |
-| [R-CCS HPC Internship](https://www.r-ccs.riken.jp/en/outreach/schools/20250723-20251225/) | PhD Students (Japan-based) | 2 weeks to 3 months | May / July |
-| [RIKEN Junior Research Associate](https://www.riken.jp/en/careers/programs/jra/) | PhD Students (Japan-based) | Max 4 years (part-time) | Sep to Oct |
+| [R-CCS HPC Internship](https://www.r-ccs.riken.jp/en/outreach/schools/20250723-20251225/) | PhD Students (Japan-based) | 0.5 to 3 months | May / July |
+| [RIKEN Junior Research Associate](https://www.riken.jp/en/careers/programs/jra/) | PhD Students (Japan-based) | Max 4 years | Sep to Oct |
 | [RIKEN International Program Associate](https://www.riken.jp/en/careers/programs/ipa/) | PhD Students (Specific Institutions) | 1 to 3 years | Apr / Sep |
