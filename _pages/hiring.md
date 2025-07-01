@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-RIKEN offers several programs, some in collaboration with JSPS, for both overseas and Japan-based postdocs and PhD students to undertake short- or long-term stays in RIKEN reseach groups. If you're interested in joining us, feel free to reach out with your CV to explore potential support for an application.
+RIKEN offers several programs, some in collaboration with JSPS, for both overseas and Japan-based postdocs and PhD students to undertake short- or long-term stays in RIKEN reseach groups. If you're interested in joining us, feel free to <a href="mailto:tenindra.abeywickrama+hiring@riken.jp">reach out</a> with your CV to explore potential support for an application.
 
 {:class="table table-bordered"}
 | Program | Applicant Type | Duration | Deadline |
