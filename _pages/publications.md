@@ -11,16 +11,16 @@ nav_order: 1
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2025. COL-Trees: Efficient Hierarchical Object Search in Road Networks. Submitted to Artificial Intelligence. <span style='color: red;'>Invited Paper - Award Track</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>]
 [<a href='https://tenindra.com/assets/pdf/'>Paper</a>]</li>
 
-<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2022. Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment. <b>SIGMOD Record</b>, 51(1):51–58. SIGMOD Research Highlight Award
+<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2022. Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment. <b>SIGMOD Record</b>, 51(1):51–58. <span style='color: red;'>SIGMOD Research Highlight Award</span>
  [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]</li>
 
 <li>K. Chen, W. Li, M. Chirico, and <ins>T. Abeywickrama</ins>. 2022. Effectively Relocating Ride-Hailing Drivers Using A Markov Decision Process with Dynamic Sharding. Proc. of the 23rd IEEE International Conference on Mobile Data Management <b>(IEEE MDM 2022)</b></li>
 
-<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2021. Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation. Proc. of the VLDB Endowment <b>(VLDB 2021)</b>. Best Scalable Data Science Paper Award [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]</li>
+<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2021. Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation. Proc. of the VLDB Endowment <b>(VLDB 2021)</b>. <span style='color: red;'>Best Scalable Data Science Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]</li>
 
-<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2021. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract). Proc. of the 30th International Joint Conference on Artificial Intelligence <b>(IJCAI 2021)</b>. Invited Paper - Best Papers from Sister Conferences</li>
+<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2021. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract). Proc. of the 30th International Joint Conference on Artificial Intelligence <b>(IJCAI 2021)</b>. <span style='color: red;'>Invited Paper - Best Papers from Sister Conferences</span></li>
 
-<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2020. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks. Proc. of the 30th International Conference on Automated Planning and Scheduling <b>(ICAPS 2020)</b>. Best Paper Award  [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]</li>
+<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2020. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks. Proc. of the 30th International Conference on Automated Planning and Scheduling <b>(ICAPS 2020)</b>. <span style='color: red;'>Best Paper Award</span>  [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]</li>
 
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and A. Khan. 2020. K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks (Extended Abstract)
 Proc. of the 36th IEEE International Conference on Data Engineering <b>(ICDE 2020)</b></li>
