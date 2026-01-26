@@ -7,18 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-<!-- {% include bib_search.liquid %} -->
-
-<!-- <div class="publications"> -->
-
-<!-- {% bibliography %} -->
-
-<!-- </div> -->
-
 <ol>
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2025. COL-Trees: Efficient Hierarchical Object Search in Road Networks. Submitted to Artificial Intelligence. <span style='color: red;'>Invited Paper - Award Track</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>]
 [<a href='https://tenindra.com/assets/pdf/'>Paper</a>]</li>
