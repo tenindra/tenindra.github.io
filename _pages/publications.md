@@ -10,7 +10,7 @@ nav_order: 1
 ### Preprints
 
 <ol>
-<li><b>Under Review:</b> <ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2025. COL-Trees: Efficient Hierarchical Object Search in Road Networks. Submitted to Artificial Intelligence. <span style='color: #FF5722;'>Invited Paper - Award Track</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>]</li>
+<li>Under Review: <ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2025. COL-Trees: Efficient Hierarchical Object Search in Road Networks. Submitted to Artificial Intelligence. <span style='color: #FF5722;'>Invited Paper - Award Track</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>]</li>
 </ol>
 
 ### Refereed Conferences and Journals
