@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-### Journal Papers
+### Journals
 <ol>
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2025. COL-Trees: Efficient Hierarchical Object Search in Road Networks. Submitted to Artificial Intelligence. <span style='color: red;'>Invited Paper - Award Track</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>]
 [<a href='https://tenindra.com/assets/pdf/'>Paper</a>]</li>
@@ -18,7 +18,7 @@ nav_order: 1
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and A. Khan. 2020. K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks. IEEE Transactions on Knowledge and Data Engineering <b>(IEEE TKDE)</b>, 32(5):983–997 [<a href='https://tenindra.com/assets/pdf/2019_TKDE_KSPIN.pdf'>Paper</a>]</li>
 </ol>
 
-### Refereed Conference Papers
+### Refereed Conferences
 
 <ol>
 <li>K. Chen, W. Li, M. Chirico, and <ins>T. Abeywickrama</ins>. 2022. Effectively Relocating Ride-Hailing Drivers Using A Markov Decision Process with Dynamic Sharding. Proc. of the 23rd IEEE International Conference on Mobile Data Management <b>(IEEE MDM 2022)</b></li>
@@ -34,7 +34,7 @@ nav_order: 1
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and D. Taniar. 2016. K-Nearest Neighbors on Road Networks: A Journey in Experimentation and in-Memory Implementation. Proc. of the VLDB Endowment <b>(VLDB 2016)</b> [<a href='https://github.com/tenindra/RN-kNN-Exp'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2016_VLDB_kNN.pdf'>Paper</a>] [<a href='http://arxiv.org/abs/1601.01549'>Extended Version</a>]</li>
 </ol>
 
-### Other Publications
+### Misc
 <ol>
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and A. Khan. 2020. K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks (Extended Abstract)
 Proc. of the 36th IEEE International Conference on Data Engineering <b>(ICDE 2020)</b></li>
