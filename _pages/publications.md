@@ -9,10 +9,10 @@ nav_order: 1
 
 ### Journals
 <ol>
-<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2025. COL-Trees: Efficient Hierarchical Object Search in Road Networks. Submitted to Artificial Intelligence. <span style='color: red;'>Invited Paper - Award Track</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>]
+<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2025. COL-Trees: Efficient Hierarchical Object Search in Road Networks. Submitted to Artificial Intelligence. <span style='color: #FF5722;'>Invited Paper - Award Track</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>]
 [<a href='https://tenindra.com/assets/pdf/'>Paper</a>]</li>
 
-<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2022. Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment. <b>SIGMOD Record</b>, 51(1):51–58. <span style='color: red;'>SIGMOD Research Highlight Award</span>
+<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2022. Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment. <b>SIGMOD Record</b>, 51(1):51–58. <span style='color: #FF5722;'>SIGMOD Research Highlight Award</span>
  [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]</li>
  
 <li><ins>T. Abeywickrama</ins>, M. A. Cheema, and A. Khan. 2020. K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks. IEEE Transactions on Knowledge and Data Engineering <b>(IEEE TKDE)</b>, 32(5):983–997 [<a href='https://tenindra.com/assets/pdf/2019_TKDE_KSPIN.pdf'>Paper</a>]</li>
@@ -23,11 +23,11 @@ nav_order: 1
 <ol>
 <li>K. Chen, W. Li, M. Chirico, and <ins>T. Abeywickrama</ins>. 2022. Effectively Relocating Ride-Hailing Drivers Using A Markov Decision Process with Dynamic Sharding. Proc. of the 23rd IEEE International Conference on Mobile Data Management <b>(IEEE MDM 2022)</b></li>
 
-<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2021. Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation. Proc. of the VLDB Endowment <b>(VLDB 2021)</b>. <span style='color: red;'>Best Scalable Data Science Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]</li>
+<li><ins>T. Abeywickrama</ins>, V. Liang, and K-L Tan. 2021. Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation. Proc. of the VLDB Endowment <b>(VLDB 2021)</b>. <span style='color: #FF5722;'>Best Scalable Data Science Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]</li>
 
-<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2021. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract). Proc. of the 30th International Joint Conference on Artificial Intelligence <b>(IJCAI 2021)</b>. <span style='color: red;'>Invited Paper - Best Papers from Sister Conferences</span></li>
+<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2021. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract). Proc. of the 30th International Joint Conference on Artificial Intelligence <b>(IJCAI 2021)</b>. <span style='color: #FF5722;'>Invited Paper - Best Papers from Sister Conferences</span></li>
 
-<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2020. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks. Proc. of the 30th International Conference on Automated Planning and Scheduling <b>(ICAPS 2020)</b>. <span style='color: red;'>Best Paper Award</span>  [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]</li>
+<li><ins>T. Abeywickrama</ins>, M. A. Cheema, and S. Storandt. 2020. Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks. Proc. of the 30th International Conference on Automated Planning and Scheduling <b>(ICAPS 2020)</b>. <span style='color: #FF5722;'>Best Paper Award</span>  [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]</li>
 
 <li><ins>T. Abeywickrama</ins>a and M. A. Cheema. Efficient Landmark-Based Candidate Generation for kNN Queries on Road Networks. Proc. of the 22nd International Conference on Database Systems for Advanced Applications <b>(DASFAA 2017)</b> [<a href='https://tenindra.com/assets/pdf/2017_DASFAA_kNN.pdf'>Paper</a>]</li>
 
