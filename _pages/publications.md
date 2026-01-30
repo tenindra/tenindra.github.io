@@ -10,9 +10,7 @@ nav_order: 1
 ### Preprints
 
 <ol>
-<li>Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt. 
-<br>COL-Trees: Efficient Hierarchical Object Search in Road Networks. 
-<br>Submitted to Artificial Intelligence (Invited Award Paper Track). <!-- <span style='color: #FF0000;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2025_AIJ_Submitted.pdf'>Paper</a>]</li>
+<li>Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt. <i>COL-Trees: Efficient Hierarchical Object Search in Road Networks.</i> Submitted to Artificial Intelligence (Invited Award Paper Track). <!-- <span style='color: #FF0000;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2025_AIJ_Submitted.pdf'>Paper</a>]</li>
 </ol>
 
 ### Refereed Conferences and Journals
