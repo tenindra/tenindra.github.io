@@ -76,17 +76,9 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 
 <li>
 <span style='color: #3CB371;'>VLDB 2016:</span> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and David Taniar.
-<br><i>K-Nearest Neighbors on Road Networks: A Journey in Experimentation and in-Memory Implementation.</i>
+<br><i>K-Nearest Neighbors on Road Networks: A Journey in Experimentation and In-Memory Implementation.</i>
 <br>Proc. of the VLDB Endowment Vol 9. [<a href='https://github.com/tenindra/RN-kNN-Exp'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2016_VLDB_kNN.pdf'>Paper</a>] [<a href='http://arxiv.org/abs/1601.01549'>Extended Version</a>]</li>
 
-</ol>
-
-### Articles
-
-<ol>
-    <li>
-        <ins>Tenindra Abeywickrama</ins> and Victor Liang. "Using real-world patterns to improve matching in theory and practice" in Grab Tech Blog (Nov 2021) [<a href='https://engineering.grab.com/using-real-world-patterns-to-improve-matching'>Link</a>]
-    </li>
 </ol>
 
 ### Patents
@@ -104,3 +96,10 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
     </li>
 </ol>
 
+### Articles
+
+<ol>
+    <li>
+        <ins>Tenindra Abeywickrama</ins> and Victor Liang. "Using real-world patterns to improve matching in theory and practice" in Grab Tech Blog (Nov 2021) [<a href='https://engineering.grab.com/using-real-world-patterns-to-improve-matching'>Link</a>]
+    </li>
+</ol>
