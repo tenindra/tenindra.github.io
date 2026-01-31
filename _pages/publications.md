@@ -25,12 +25,14 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <br><i>Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment.</i> 
 <br>SIGMOD Record, 51(1):51–58. <span style='color: #FF5722;'>SIGMOD Research Highlight Award</span> [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]
 </li>
- 
+<br>
+
 <li>
 <span style='color: #3CB371;'>IEEE MDM 2022 (Short Paper):</span> Keru Chen, Wentong Li, Michael Chirico, and <ins>Tenindra Abeywickrama</ins>. 
 <br><i>Effectively Relocating Ride-Hailing Drivers Using A Markov Decision Process with Dynamic Sharding.</i>
 <br>Proc. of the 23rd IEEE International Conference on Mobile Data Management
 </li>
+<br>
 
 <li>
 <span style='color: #3CB371;'>VLDB 2021:</span> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
@@ -43,36 +45,42 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract).</i>
 <br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <span style='color: #FF5722;'>Invited Paper - Best Papers from Sister Conferences</span>
 </li>
+<br>
 
 <li>
 <span style='color: #3CB371;'>ICAPS 2020:</span> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks.</i>
 <br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <span style='color: #FF5722;'>Best Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
 </li>
+<br>
 
 <li>
 <span style='color: #3CB371;'>ICDE 2020 (Extended Abstract):</span> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Arijit Khan. 2020.
 <br><i>K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks (Extended Abstract). </i>
 <br>Proc. of the 36th IEEE International Conference on Data Engineering
 </li>
+<br>
 
 <li>
 <span style='color: #3CB371;'>TKDE 2020:</span> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Arijit Khan
 <br><i>K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks.</i>
 <br>IEEE Transactions on Knowledge and Data Engineering, 32(5):983–997 [<a href='https://tenindra.com/assets/pdf/2019_TKDE_KSPIN.pdf'>Paper</a>]
 </li>
+<br>
 
 <li>
 <span style='color: #3CB371;'>SOCS 2018 (Extended Abstract):</span> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and David Taniar.
 <br><i>k-Nearest Neighbors on Road Networks: Euclidean Heuristic Revisited.</i>
 <br>Proc. of the 11th Annual Symposium on Combinatorial Search
 </li>
+<br>
 
 <li>
 <span style='color: #3CB371;'>DASFAA 2017:</span> <ins>Tenindra Abeywickrama</ins> and Muhammad Aamir Cheema.
 <br><i>Efficient Landmark-Based Candidate Generation for kNN Queries on Road Networks.</i>
 <br>Proc. of the 22nd International Conference on Database Systems for Advanced Applications [<a href='https://tenindra.com/assets/pdf/2017_DASFAA_kNN.pdf'>Paper</a>]
 </li>
+<br>
 
 <li>
 <span style='color: #3CB371;'>VLDB 2016:</span> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and David Taniar.
@@ -89,6 +97,7 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
         <br><i>System and method for bipartite matching</i>.
         <br><b>US Patent No. US12260357B2</b>, Granted Mar. 2025
     </li>
+    <br>
     <li>
         Chunda Ding, Xiaocheng Huang, Minbo Qiu, <ins>Tenindra Nadeeshan Abeywickrama</ins>, Chen Liang.
         <br><i>Method of annotating map data for navigation of vehicles</i>.
