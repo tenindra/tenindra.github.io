@@ -1,4 +1,4 @@
----
+v---
 layout: page
 permalink: /publications/
 title: publications
@@ -35,7 +35,7 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <li>
 <span style='color: #3CB371;'>VLDB 2021:</span> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
 <br><i>Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation.</i>
-<br>Proc. of the VLDB Endowment. <span style='color: #FF5722;'>Best Scalable Data Science Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]
+<br>Proc. of the VLDB Endowment Vol 14. <span style='color: #FF5722;'>Best Scalable Data Science Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]
 </li>
 
 <li>
@@ -77,7 +77,7 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <li>
 <span style='color: #3CB371;'>VLDB 2016:</span> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and David Taniar.
 <br><i>K-Nearest Neighbors on Road Networks: A Journey in Experimentation and in-Memory Implementation.</i>
-<br>Proc. of the VLDB Endowment [<a href='https://github.com/tenindra/RN-kNN-Exp'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2016_VLDB_kNN.pdf'>Paper</a>] [<a href='http://arxiv.org/abs/1601.01549'>Extended Version</a>]</li>
+<br>Proc. of the VLDB Endowment Vol 9. [<a href='https://github.com/tenindra/RN-kNN-Exp'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2016_VLDB_kNN.pdf'>Paper</a>] [<a href='http://arxiv.org/abs/1601.01549'>Extended Version</a>]</li>
 
 </ol>
 
