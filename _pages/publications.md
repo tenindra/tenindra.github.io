@@ -13,7 +13,7 @@ nav_order: 1
 <li>
 Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>COL-Trees: Efficient Hierarchical Object Search in Road Networks.</i>
-<br>Submitted to Artificial Intelligence (Invited Award Paper Track). <!-- <span style='color: #FF5722;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2025_AIJ_Submitted.pdf'>Paper</a>]</li>
+<br>Submitted to Artificial Intelligence (Invited Award Paper Track). <!-- <span style='color: #E64A19;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2025_AIJ_Submitted.pdf'>Paper</a>]</li>
 </ol>
 
 ### Refereed Conferences and Journals
@@ -23,7 +23,7 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <li>
 <b><span style='color: #55789B;'>SIGMOD Record 2022:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
 <br><i>Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment.</i> 
-<br>SIGMOD Record, 51(1):51–58. <span style='color: #FF5722;'>SIGMOD Research Highlight Award</span> [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]
+<br>SIGMOD Record, 51(1):51–58. <span style='color: #E64A19;'>SIGMOD Research Highlight Award</span> [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]
 </li>
 <br>
 
@@ -37,21 +37,21 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <li>
 <b><span style='color: #55789B;'>VLDB 2021:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
 <br><i>Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation.</i>
-<br>Proc. of the VLDB Endowment Vol 14. <span style='color: #FF5722;'>Best Scalable Data Science Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]
+<br>Proc. of the VLDB Endowment Vol 14. <span style='color: #E64A19;'>Best Scalable Data Science Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]
 </li>
 <br>
 
 <li>
 <b><span style='color: #55789B;'>IJCAI 2021 (Extended Abstract):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt. 
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract).</i>
-<br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <span style='color: #FF5722;'>Invited Paper - Best Papers from Sister Conferences</span>
+<br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <span style='color: #E64A19;'>Invited Paper - Best Papers from Sister Conferences</span>
 </li>
 <br>
 
 <li>
 <b><span style='color: #55789B;'>ICAPS 2020:</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks.</i>
-<br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <span style='color: #FF5722;'>Best Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
+<br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <span style='color: #E64A19;'>Best Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
 </li>
 <br>
 
