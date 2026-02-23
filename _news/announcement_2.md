@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-01 12:00:01-0000
+date: 2025-09-19 12:00:01-0000
 inline: true
 related_posts: false
 ---
 
-I am joining the Review Board for PVLDB Vol. 19 (VLDB 2026)!
+Returned to the [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/12th-hlf-2025/) as an alumnus this year, a fantastic opportunity for connecting with inspiring laureates and young researchers!
