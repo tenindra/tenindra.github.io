@@ -11,9 +11,15 @@ nav_order: 1
 
 <ol>
 <li>
-Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
+Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, and Ramu Anandakrishnan.
+<br><i>A Fast and Practical Column Generation Approach for Identifying Carcinogenic Multi-Hit Gene Combinations.</i>
+<br>Under Review [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>]
+</li>
+<li>
+<ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>COL-Trees: Efficient Hierarchical Object Search in Road Networks.</i>
-<br>Submitted to Artificial Intelligence (Invited Award Paper Track). <!-- <span style='color: #D32F2F;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2025_AIJ_Submitted.pdf'>Paper</a>]</li>
+<br>Submitted to Artificial Intelligence (Invited Track). <!-- <span style='color: #D32F2F;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://arxiv.org/abs/2601.22183'>Paper</a>]
+</li>
 </ol>
 
 ### Refereed Conferences and Journals
@@ -51,7 +57,7 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <li>
 <b><span style='color: #55789B;'>ICAPS 2020:</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks.</i>
-<br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <span style='color: #D32F2F;'>Best Paper Award</span> [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
+<br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <span style='color: #D32F2F;'>Best Paper Award</span> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
 </li>
 <br>
 
@@ -79,7 +85,7 @@ Under Review: <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabin
 <li>
 <b><span style='color: #55789B;'>DASFAA 2017:</span></b> <ins>Tenindra Abeywickrama</ins> and Muhammad Aamir Cheema.
 <br><i>Efficient Landmark-Based Candidate Generation for kNN Queries on Road Networks.</i>
-<br>Proc. of the 22nd International Conference on Database Systems for Advanced Applications [<a href='https://tenindra.com/assets/pdf/2017_DASFAA_kNN.pdf'>Paper</a>]
+<br>Proc. of the 22nd International Conference on Database Systems for Advanced Applications [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2017_DASFAA_kNN.pdf'>Paper</a>]
 </li>
 <br>
 
