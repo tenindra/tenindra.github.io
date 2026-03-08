@@ -119,3 +119,12 @@ Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, and Ramu Anandakrishnan.
         <ins>Tenindra Abeywickrama</ins> and Victor Liang. "Using real-world patterns to improve matching in theory and practice" in Grab Tech Blog (Nov 2021) [<a href='https://engineering.grab.com/using-real-world-patterns-to-improve-matching'>Link</a>]
     </li>
 </ol>
+
+### Thesis
+
+<ol>
+    <li>
+        <ins>Tenindra Abeywickrama</ins>. <i>In Search of Points of Interest: A Story of Decoupled Heuristics on Road Networks</i> [<a href='https://doi.org/10.26180/8970947'>Thesis</a>]
+        <br>Advised by: <a href='https://www.aamircheema.com/'>Muhammad Aamir Cheema</a>
+    </li>
+</ol>
