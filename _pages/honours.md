@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Research
+### Research
 
 <ul>
     <li>SIGMOD Research Highlight Award 2022</li>
@@ -15,7 +15,7 @@ nav_order: 2
     <li>ICAPS 2020 Best Paper Award</li>
 </ul>
 
-## Grants & Fellowships
+### Grants & Fellowships
 
 <ul>
     <li>JSPS Grant-in-Aid for Research Activity Start-up 2025-2027</li>
@@ -23,7 +23,7 @@ nav_order: 2
     <li>Endeavour Australia Cheung Kong Research Fellowship 2018</li>
 </ul>
 
-## Professional Honors
+### Professional Honours
 
 <ul>
     <li>12th Heidelberg Laureate Forum Invited Alumnus</li>
