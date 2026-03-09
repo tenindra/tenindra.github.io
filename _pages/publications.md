@@ -48,9 +48,9 @@ Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, and Ramu Anandakrishnan.
 <br>
 
 <li>
-<b><span style='color: #55789B;'>IJCAI 2021 (Extended Abstract):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt. 
+<b><span style='color: #55789B;'>IJCAI 2021 (Best Papers from Sister Conferences Track):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt. 
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract).</i>
-<br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <b><span style='color: #D32F2F;'>Invited Paper - Best Papers from Sister Conferences</span></b>
+<br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <b><span style='color: #D32F2F;'>Invited Paper</span></b>
 </li>
 <br>
 
@@ -62,7 +62,7 @@ Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, and Ramu Anandakrishnan.
 <br>
 
 <li>
-<b><span style='color: #55789B;'>ICDE 2020 (Extended Abstract):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Arijit Khan. 2020.
+<b><span style='color: #55789B;'>ICDE 2020 (TKDE Poster Track):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Arijit Khan. 2020.
 <br><i>K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks (Extended Abstract). </i>
 <br>Proc. of the 36th IEEE International Conference on Data Engineering
 </li>
