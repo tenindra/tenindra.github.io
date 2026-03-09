@@ -50,7 +50,7 @@ Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, and Ramu Anandakrishnan.
 <li>
 <b><span style='color: #55789B;'>IJCAI 2021 (Best Papers from Sister Conferences Track):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt. 
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract).</i>
-<br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <b><span style='color: #D32F2F;'>Invited Paper</span></b>
+<br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <b><span style='color: #D32F2F;'>Invited</span></b>
 </li>
 <br>
 
