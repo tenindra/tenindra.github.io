@@ -29,7 +29,7 @@ Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, and Ramu Anandakrishnan.
 <li>
 <b><span style='color: #55789B;'>SIGMOD Record 2022:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
 <br><i>Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment.</i> 
-<br>SIGMOD Record, 51(1):51–58. <b><span style='color: #D32F2F;'>SIGMOD Research Highlight Award</span></b> [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]
+<br>ACM SIGMOD Record, 51(1):51–58. <b><span style='color: #D32F2F;'>SIGMOD Research Highlight Award</span></b> [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]
 </li>
 <br>
 
