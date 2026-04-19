@@ -3,7 +3,7 @@ layout: page
 permalink: /hiring/
 title: hiring
 description:
-nav: true
+nav: false
 nav_order: 4
 ---
 
