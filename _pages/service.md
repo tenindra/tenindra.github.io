@@ -10,8 +10,8 @@ nav_order: 3
 ### Program Committee Member / Conference Reviewer
 
 <ul>
+    <li>IEEE International Conference on Data Engineering (ICDE): 2027, 2026, 2025, 2023 (TKDE Poster Track)</li>
     <li>International Conference on Very Large Databases (PVLDB): 2026</li>
-    <li>IEEE International Conference on Data Engineering (ICDE): 2026, 2025, 2023 (TKDE Poster Track)</li>
     <li>Symposium on Spatial and Temporal Data (SSTD): 2025 (Industry and Demo Track)</li>
 </ul>
 
