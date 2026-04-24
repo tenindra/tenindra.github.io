@@ -18,10 +18,10 @@ nav_order: 3
 ### Journal Reviewer
 
 <ul>
+    <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
+    <li>IEEE Transactions on Services Computing (TOSC)</li>
     <li>The VLDB Journal</li>
     <li>Distributed and Parallel Databases</li>
-    <li>IEEE Transactions on Services Computing (TOSC)</li>
-    <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
     <li>World Wide Web Journal (WWWJ)</li>
 </ul>
 
