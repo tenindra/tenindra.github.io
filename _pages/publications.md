@@ -11,11 +11,6 @@ nav_order: 1
 
 <ol>
 <li>
-Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, Ramu Anandakrishnan
-<br><i>A Fast and Practical Column Generation Approach for Identifying Carcinogenic Multi-Hit Gene Combinations</i>
-<br>Under Review [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>]
-</li>
-<li>
 <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>COL-Trees: Efficient Hierarchical Object Search in Road Networks.</i>
 <br>Submitted to Artificial Intelligence (Invited). <!-- <span style='color: #D32F2F;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://arxiv.org/abs/2601.22183'>Paper</a>]
@@ -25,6 +20,13 @@ Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, Ramu Anandakrishnan
 ### Refereed Conferences and Journals
 
 <ol>
+
+<li>
+<b><span style='color: #55789B;'>CP 2026:</span></b> Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, Ramu Anandakrishnan
+<br><i>A Fast and Practical Column Generation Approach for Identifying Carcinogenic Multi-Hit Gene Combinations</i>
+<br> Proc. of the 32nd International Conference on Principles and Practice of Constraint Programming (to appear) [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>]
+</li>
+<br>
 
 <li>
 <b><span style='color: #55789B;'>SIGMOD Record 2022:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
