@@ -23,8 +23,8 @@ nav_order: 1
 
 <li>
 <b><span style='color: #55789B;'>CP 2026:</span></b> Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, Ramu Anandakrishnan
-<br><i>A Fast and Practical Column Generation Approach for Identifying Carcinogenic Multi-Hit Gene Combinations</i>
-<br> Proc. of the 32nd International Conference on Principles and Practice of Constraint Programming (to appear) [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>]
+<br><i>Identifying Multi-Hit Cancer Drivers Without Massive Parallelization: A CP, MIP, and Column Generation Framework</i>
+<br> Proc. of the 32nd International Conference on Principles and Practice of Constraint Programming (to appear) [<a href='https://github.com/rickwillemsen/MHCDSCP'>Code</a>] [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>]
 </li>
 <br>
 
