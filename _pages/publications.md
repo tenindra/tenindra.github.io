@@ -102,13 +102,13 @@ nav_order: 1
 
 <ol>
     <li>
-        <ins>Tenindra Nadeeshan Abeywickrama</ins>, Chen Liang.
+        <ins>Tenindra Abeywickrama</ins>, Chen Liang.
         <br><i>System and method for bipartite matching</i>.
         <br><b>US Patent No. US12260357B2</b>, Granted Mar. 2025
     </li>
     <br>
     <li>
-        Chunda Ding, Xiaocheng Huang, Minbo Qiu, <ins>Tenindra Nadeeshan Abeywickrama</ins>, Chen Liang.
+        Chunda Ding, Xiaocheng Huang, Minbo Qiu, <ins>Tenindra Abeywickrama</ins>, Chen Liang.
         <br><i>Method of annotating map data for navigation of vehicles</i>.
         <br><b>US Patent App. 18/561,112</b>, Pending (Published Nov. 2024)
     </li>
