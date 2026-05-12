@@ -59,7 +59,7 @@ nav_order: 1
 <li>
 <b><span style='color: #55789B;'>ICAPS 2020:</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks.</i>
-<br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <b><span style='color: #D32F2F;'>Best Paper Award</span></b> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
+<br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <b><span style='color: #D32F2F;'>Outstanding Paper Award</span></b> (for the best paper) [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
 </li>
 <br>
 
