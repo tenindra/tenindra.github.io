@@ -19,7 +19,7 @@ nav_order: 2
 
 <ul>
     <li>ICDE 2026 Distinguished PC Award</li>
-    <li>DAAD AINeT Fellow (AI for Neuroscience) 2026</li>
+    <li>DAAD AINeT Fellow (AI in Neuroscience) 2026</li>
     <li>12th Heidelberg Laureate Forum Invited Alumnus 2025</li>
     <li>9th Heidelberg Laureate Forum Young Researcher 2022</li>
 </ul>
@@ -27,7 +27,7 @@ nav_order: 2
 ### Grants & Fellowships
 
 <ul>
-    <li>JSPS Grant-in-Aid for Research Activity Start-up 2025-2027</li>
-    <li>12th Heidelberg Laureate Forum Travel Grant</li>
+    <li>JSPS Grant-in-Aid for Research Activity Start-up 2025-27</li>
     <li>Endeavour Australia Cheung Kong Research Fellowship 2018</li>
+    <li>Monash Faculty of IT Ph.D. Research Scholarship 2014-17</li>
 </ul>
