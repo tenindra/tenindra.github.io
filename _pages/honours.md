@@ -12,7 +12,7 @@ nav_order: 2
 <ul>
     <li>SIGMOD Research Highlight Award 2022</li>
     <li>VLDB 2021 Best Scalable Data Science Paper Award</li>
-    <li>ICAPS 2020 Outstanding Paper Award (for the best paper)</li>
+    <li>ICAPS 2020 Outstanding Paper Award (Best Research Paper)</li>
 </ul>
 
 ### Professional & Service
