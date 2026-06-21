@@ -13,7 +13,7 @@ nav_order: 1
 <li>
 <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>COL-Trees: Efficient Hierarchical Object Search in Road Networks.</i>
-<br>Submitted to Artificial Intelligence (Invited). <!-- <span style='color: #D32F2F;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://arxiv.org/abs/2601.22183'>Paper</a>]
+<br>Under review in <i>Artificial Intelligence</i> (Invited). <!-- <span style='color: #D32F2F;'>Invited Paper - Award Track</span>  --> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://arxiv.org/abs/2601.22183'>Paper</a>]
 </li>
 </ol>
 
