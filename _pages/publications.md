@@ -8,22 +8,20 @@ nav_order: 1
 ---
 
 <style>
-.publications ol li { margin-bottom: 1rem; }
+ol li { margin-bottom: 1rem; }
 
-.publications details.bib { display: inline; }
-.publications details.bib > summary {
+details.bib { display: inline; }
+details.bib > summary {
   display: inline; cursor: pointer; list-style: none;
 }
-.publications details.bib > summary::-webkit-details-marker { display: none; }
-.publications details.bib > summary::marker { content: ""; }
-.publications details.bib > summary:hover { text-decoration: underline; }
-.publications details.bib pre {
+details.bib > summary::-webkit-details-marker { display: none; }
+details.bib > summary::marker { content: ""; }
+details.bib > summary:hover { text-decoration: underline; }
+details.bib pre {
   font-size: 0.8rem; padding: 0.75rem; margin-top: 0.5rem;
   overflow-x: auto; border-radius: 4px;
 }
 </style>
-
-<div class="publications" markdown="1">
 
 ### Preprints
 
