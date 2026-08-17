@@ -8,16 +8,22 @@ nav_order: 1
 ---
 
 <style>
-details.bib { display: inline; }
-details.bib > summary { display: inline; cursor: pointer; list-style: none; }
-details.bib > summary::-webkit-details-marker { display: none; }
-details.bib > summary::marker { content: ""; }
-details.bib > summary:hover { text-decoration: underline; }
-details.bib pre {
+.publications ol li { margin-bottom: 1rem; }
+
+.publications details.bib { display: inline; }
+.publications details.bib > summary {
+  display: inline; cursor: pointer; list-style: none;
+}
+.publications details.bib > summary::-webkit-details-marker { display: none; }
+.publications details.bib > summary::marker { content: ""; }
+.publications details.bib > summary:hover { text-decoration: underline; }
+.publications details.bib pre {
   font-size: 0.8rem; padding: 0.75rem; margin-top: 0.5rem;
   overflow-x: auto; border-radius: 4px;
 }
 </style>
+
+<div class="publications" markdown="1">
 
 ### Preprints
 
@@ -38,33 +44,23 @@ details.bib pre {
 <br><i>Identifying Multi-Hit Cancer Drivers Without Massive Parallelization: A CP, MIP, and Column Generation Framework</i>
 <br> Proc. of the 32nd International Conference on Principles and Practice of Constraint Programming (to appear) [<a href='https://github.com/rickwillemsen/MHCDSCP'>Code</a>] [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>]
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>SIGMOD Record 2022:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
 <br><i>Bipartite Matching: What to do in the Real World When Computing Assignment Costs Dominates Finding the Optimal Assignment.</i> 
 <br>ACM SIGMOD Record, 51(1):51–58. <b><span style='color: #D32F2F;'>SIGMOD Research Highlight Award</span></b> [<a href='https://tenindra.com/assets/pdf/2022_SIGMOD_IKM.pdf'>Paper</a>]
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>IEEE MDM 2022 (Short Paper):</span></b> Keru Chen, Wentong Li, Michael Chirico, and <ins>Tenindra Abeywickrama</ins>. 
 <br><i>Effectively Relocating Ride-Hailing Drivers Using A Markov Decision Process with Dynamic Sharding.</i>
 <br>Proc. of the 23rd IEEE International Conference on Mobile Data Management
 </li>
-<br>
-
-<li>
-<b><span style='color: #55789B;'>VLDB 2021:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan. 
-<br><i>Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation.</i>
-<br>Proc. of the VLDB Endowment Vol 14. <b><span style='color: #D32F2F;'>Best Scalable Data Science Paper Award</span></b> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]
-</li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>VLDB 2021:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan.
 <br><i>Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation.</i>
-<br>Proc. of the VLDB Endowment Vol 14. <b><span style='color: #D32F2F;'>Best Scalable Data Science Paper Award</span></b> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>] <details class="bib"><summary>[BibTeX]</summary>{% raw %}<pre><code>@article{abeywickrama2021optimizing,
+<br>Proc. of the VLDB Endowment Vol 14. <b><span style='color: #D32F2F;'>Best Scalable Data Science Paper Award</span></b> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>] <details class="bib"><summary>[BibTeX]</summary>{% raw %}<pre><code>@article{abey2021optimizing,
   title     = {Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation},
   author    = {Abeywickrama, Tenindra and Liang, Victor and Tan, Kian-Lee},
   journal   = {Proceedings of the VLDB Endowment},
@@ -80,47 +76,42 @@ details.bib pre {
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks (Extended Abstract).</i>
 <br>Proc. of the 30th International Joint Conference on Artificial Intelligence. <b><span style='color: #D32F2F;'>Invited</span></b>
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>ICAPS 2020:</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt.
 <br><i>Hierarchical Graph Traversal for Aggregate k Nearest Neighbors Search in Road Networks.</i>
 <br>Proc. of the 30th International Conference on Automated Planning and Scheduling. <b><span style='color: #D32F2F;'>Outstanding Paper Award</span></b> [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2020_ICAPS_AKNN.pdf'>Paper</a>]
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>ICDE 2020 (TKDE Poster Track):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Arijit Khan. 2020.
 <br><i>K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks (Extended Abstract). </i>
 <br>Proc. of the 36th IEEE International Conference on Data Engineering
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>TKDE 2020:</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Arijit Khan
 <br><i>K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks.</i>
 <br>IEEE Transactions on Knowledge and Data Engineering, 32(5):983–997 [<a href='https://tenindra.com/assets/pdf/2019_TKDE_KSPIN.pdf'>Paper</a>]
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>SOCS 2018 (Extended Abstract):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and David Taniar.
 <br><i>k-Nearest Neighbors on Road Networks: Euclidean Heuristic Revisited.</i>
 <br>Proc. of the 11th Annual Symposium on Combinatorial Search
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>DASFAA 2017:</span></b> <ins>Tenindra Abeywickrama</ins> and Muhammad Aamir Cheema.
 <br><i>Efficient Landmark-Based Candidate Generation for kNN Queries on Road Networks.</i>
 <br>Proc. of the 22nd International Conference on Database Systems for Advanced Applications [<a href='https://bitbucket.org/tenindra/rn-obj-search'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2017_DASFAA_kNN.pdf'>Paper</a>]
 </li>
-<br>
 
 <li>
 <b><span style='color: #55789B;'>VLDB 2016:</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and David Taniar.
 <br><i>K-Nearest Neighbors on Road Networks: A Journey in Experimentation and In-Memory Implementation.</i>
-<br>Proc. of the VLDB Endowment Vol 9. [<a href='https://github.com/tenindra/RN-kNN-Exp'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2016_VLDB_kNN.pdf'>Paper</a>] [<a href='http://arxiv.org/abs/1601.01549'>Extended Version</a>]</li>
+<br>Proc. of the VLDB Endowment Vol 9. [<a href='https://github.com/tenindra/RN-kNN-Exp'>Code</a>] [<a href='https://tenindra.com/assets/pdf/2016_VLDB_kNN.pdf'>Paper</a>] [<a href='http://arxiv.org/abs/1601.01549'>Extended Version</a>]
+</li>
 
 </ol>
 
@@ -132,7 +123,6 @@ details.bib pre {
         <br><i>System and method for bipartite matching</i>.
         <br><b>US Patent No. US12260357B2</b>, Granted Mar. 2025
     </li>
-    <br>
     <li>
         Chunda Ding, Xiaocheng Huang, Minbo Qiu, <ins>Tenindra Abeywickrama</ins>, Chen Liang.
         <br><i>Method of annotating map data for navigation of vehicles</i>.
