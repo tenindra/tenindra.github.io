@@ -7,6 +7,18 @@ nav: true
 nav_order: 1
 ---
 
+<style>
+details.bib { display: inline; }
+details.bib > summary { display: inline; cursor: pointer; list-style: none; }
+details.bib > summary::-webkit-details-marker { display: none; }
+details.bib > summary::marker { content: ""; }
+details.bib > summary:hover { text-decoration: underline; }
+details.bib pre {
+  font-size: 0.8rem; padding: 0.75rem; margin-top: 0.5rem;
+  overflow-x: auto; border-radius: 4px;
+}
+</style>
+
 ### Preprints
 
 <ol>
@@ -48,6 +60,20 @@ nav_order: 1
 <br>Proc. of the VLDB Endowment Vol 14. <b><span style='color: #D32F2F;'>Best Scalable Data Science Paper Award</span></b> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>]
 </li>
 <br>
+
+<li>
+<b><span style='color: #55789B;'>VLDB 2021:</span></b> <ins>Tenindra Abeywickrama</ins>, Victor Liang, and Kian-Lee Tan.
+<br><i>Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation.</i>
+<br>Proc. of the VLDB Endowment Vol 14. <b><span style='color: #D32F2F;'>Best Scalable Data Science Paper Award</span></b> [<a href='https://tenindra.com/assets/pdf/2021_VLDB_IKM.pdf'>Paper</a>] <details class="bib"><summary>[BibTeX]</summary>{% raw %}<pre><code>@article{abeywickrama2021optimizing,
+  title     = {Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation},
+  author    = {Abeywickrama, Tenindra and Liang, Victor and Tan, Kian-Lee},
+  journal   = {Proceedings of the VLDB Endowment},
+  volume    = {14},
+  number    = {7},
+  pages     = {1150--1158},
+  year      = {2021}
+}</code></pre>{% endraw %}</details>
+</li>
 
 <li>
 <b><span style='color: #55789B;'>IJCAI 2021 (Best Papers from Sister Conferences Track):</span></b> <ins>Tenindra Abeywickrama</ins>, Muhammad Aamir Cheema, and Sabine Storandt. 
