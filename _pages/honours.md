@@ -18,8 +18,9 @@ nav_order: 2
 ### Professional & Service
 
 <ul>
-    <li>ICDE 2026 Distinguished PC Award</li>
+    <li>VLDB 2026 Distinguished Reviewer</li>
     <li>DAAD AINeT Fellow (AI in Neuroscience) 2026</li>
+    <li>ICDE 2026 Distinguished PC Award</li>
     <li>12th Heidelberg Laureate Forum Invited Alumnus 2025</li>
     <li>9th Heidelberg Laureate Forum Young Researcher 2022</li>
 </ul>
