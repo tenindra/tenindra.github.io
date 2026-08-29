@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a Distinguished PC Award from [ICDE 2026](https://icde2026.github.io/)!
+I received a Distinguished PC Award from [ICDE 2026](https://icde2026.github.io/awards.html)!
