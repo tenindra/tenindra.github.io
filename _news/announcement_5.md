@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been recognized as a Distinguished Reviewer for [VLDB 2026]([https://icde2026.github.io/](https://vldb.org/2026/conference-awards.html))
+I have been recognized as a Distinguished Reviewer for [VLDB 2026](https://vldb.org/2026/conference-awards.html)
