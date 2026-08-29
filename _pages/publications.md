@@ -46,7 +46,7 @@ details.bib pre {
 <li>
 <b><span style='color: #55789B;'>CP 2026:</span></b> Rick S. H. Willemsen, <ins>Tenindra Abeywickrama</ins>, Ramu Anandakrishnan
 <br><i>Identifying Multi-Hit Cancer Drivers Without Massive Parallelization: A CP, MIP, and Column Generation Framework</i>
-<br> Proc. of the 32nd International Conference on Principles and Practice of Constraint Programming (to appear) [<a href='https://github.com/rickwillemsen/MHCDSCP'>Code</a>] [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>] <details class="bib"><summary>[BibTeX]</summary>{% raw %}<pre><code>@inproceedings{willemsen2026identifying,
+<br> Proc. of the 32nd International Conference on Principles and Practice of Constraint Programming [<a href='https://github.com/rickwillemsen/MHCDSCP'>Code</a>] [<a href='https://arxiv.org/abs/2602.22551'>Paper</a>] <details class="bib"><summary>[BibTeX]</summary>{% raw %}<pre><code>@inproceedings{willemsen2026identifying,
   title     = {Identifying Multi-Hit Cancer Drivers Without Massive Parallelization: A {CP}, {MIP}, and Column Generation Framework},
   author    = {Willemsen, Rick S. H. and Abeywickrama, Tenindra and Anandakrishnan, Ramu},
   booktitle = {Proceedings of the 32nd International Conference on Principles and Practice of Constraint Programming},
@@ -161,7 +161,7 @@ details.bib pre {
   author    = {Abeywickrama, Tenindra and Cheema, Muhammad Aamir and Storandt, Sabine},
   booktitle = {Proceedings of the 19th Annual Symposium on Combinatorial Search},
   year      = {2026},
-  note      = {To appear}
+  pages     = {292--293}
 }</code></pre>{% endraw %}</details>
 </li>
 
